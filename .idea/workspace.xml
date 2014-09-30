@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6255578-0c7f-4ca4-848b-7dd1a34f4217" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup github/index.html" afterPath="$PROJECT_DIR$/setup github/index.html" />
-    </list>
+    <list default="true" id="d6255578-0c7f-4ca4-848b-7dd1a34f4217" name="Default" comment="" />
     <ignored path="Liles_Darrell_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,8 +51,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="424" />
-    <option name="y" value="572" />
+    <option name="x" value="98" />
+    <option name="y" value="93" />
     <option name="width" value="1400" />
     <option name="height" value="790" />
   </component>
@@ -169,7 +167,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="424" y="572" width="1400" height="790" extended-state="0" />
+    <frame x="98" y="93" width="1400" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
