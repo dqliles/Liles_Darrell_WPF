@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6255578-0c7f-4ca4-848b-7dd1a34f4217" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/Expressions_worksheet.html" afterPath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/Expressions_worksheet.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/js/Expressions_worksheet.js" afterPath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/js/Expressions_worksheet.js" />
     </list>
     <ignored path="Liles_Darrell_WPF.iws" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="Expressions_worksheet.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/js/Expressions_worksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09756097" vertical-offset="0" max-vertical-offset="615">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.024390243" vertical-offset="0" max-vertical-offset="615">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,8 +64,8 @@
         <option value="$PROJECT_DIR$/GoToTrainingWeek2/AssociatingJS/index.html" />
         <option value="$PROJECT_DIR$/GoToTrainingWeek2/js/week2.js" />
         <option value="$PROJECT_DIR$/GoToTrainingWeek2/week2.html" />
-        <option value="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/js/Expressions_worksheet.js" />
         <option value="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/Expressions_worksheet.html" />
+        <option value="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/js/Expressions_worksheet.js" />
       </list>
     </option>
   </component>
@@ -431,8 +430,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/js/Expressions_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09756097" vertical-offset="0" max-vertical-offset="615">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.024390243" vertical-offset="0" max-vertical-offset="615">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>

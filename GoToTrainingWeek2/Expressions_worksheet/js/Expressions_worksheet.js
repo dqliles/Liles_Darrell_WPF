@@ -9,8 +9,9 @@
 var sparkyAge = 3;
 console.log(sparkyAge);
 
-
-
+//this is the setup of my result variable
+var ageInDogYears = 7 * sparkyAge;
+console.log(ageInDogYears);
 
 
 
