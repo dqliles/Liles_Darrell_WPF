@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6255578-0c7f-4ca4-848b-7dd1a34f4217" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_Personal/Expressions_personal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_Personal/js/Expressions_personal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/js/Expressions_worksheet.js" afterPath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_worksheet/js/Expressions_worksheet.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions_Industry/Expressions_industry.js" afterPath="" />
     </list>
     <ignored path="Liles_Darrell_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,8 +58,8 @@
       <file leaf-file-name="Expressions_personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions_Personal/js/Expressions_personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19512194" vertical-offset="0" max-vertical-offset="615">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.048780486" vertical-offset="0" max-vertical-offset="615">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -281,7 +278,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="177" width="1400" height="712" extended-state="1" />
+    <frame x="118" y="177" width="1400" height="712" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -410,8 +407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions_Personal/js/Expressions_personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19512194" vertical-offset="0" max-vertical-offset="615">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.048780486" vertical-offset="0" max-vertical-offset="615">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
