@@ -9,19 +9,29 @@ Expressions
 
 
 //set up for the given variable
-var adultTicket = 8;
-var childTicket = 6;
-var studentTicket = 6.5;
+var adultTicket = 8.00;
+var childTicket = 6.00;
+var studentTicket = 6.50;
 //I tested out the givens in the console to see if they were setup properly//
 console.log(adultTicket);
 console.log(childTicket);
 console.log(studentTicket);
 
 //This is the setup to prompt the user to input info//
-//prompt("We are calculating the cost of movie tickets for your family. Please enter the number of adults.");
+//prompt("Lets calculate the cost of movie tickets for your family. Please enter the number of adults.");
 
 //This is the variable setup to store input from the prompt//
-var adults = prompt("We are calculating the cost of movie tickets for your family. Please enter the number of adults.");
+var name = prompt(" Let's get started! Please enter your name");
+console.log(name);
+var adults = prompt("Hello "+name+"! Lets calculate the cost of movie tickets for your family. Please enter the number of adults.");
 console.log (adults);
+var child = prompt("Now enter the number of children");
+console.log(child);
+var students = prompt("Please enter the number of students ");
+console.log (students);
+//Created calculation using the givens and the info collected from prompts//
+ var costOfTickets = (adultTicket * adults + childTicket * child + studentTicket * students);
+//Tested calculation in console
+ console.log(costOfTickets);
 
 //alert("Testing 1, 2, 3!");
