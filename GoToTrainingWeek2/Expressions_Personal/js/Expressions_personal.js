@@ -17,4 +17,9 @@ console.log(adultTicket);
 console.log(childTicket);
 console.log(studentTicket);
 
+//This is the setup to prompt the user to input info//
+prompt("We are calculating the cost of movie tickets for your family. Please enter the number of adults.");
+
+
+
 //alert("Testing 1, 2, 3!");
