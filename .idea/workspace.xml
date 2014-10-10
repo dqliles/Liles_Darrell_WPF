@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d6255578-0c7f-4ca4-848b-7dd1a34f4217" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions/Expressions_Wacky/js/Expressions_wacky.js" afterPath="$PROJECT_DIR$/GoToTrainingWeek2/Expressions/Expressions_Wacky/js/Expressions_wacky.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Liles_Darrell_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="Expressions_wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions/Expressions_Wacky/js/Expressions_wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41463414" vertical-offset="0" max-vertical-offset="615">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.4390244" vertical-offset="0" max-vertical-offset="615">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -60,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions/Expressions_Personal/js/Expressions_personal.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="765">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+              <caret line="26" column="132" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="132" />
               <folding />
             </state>
           </provider>
@@ -439,14 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions/Expressions_Wacky/Expressions_wacky.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions/Expressions_Industry/Expressions_industry.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10152284" vertical-offset="0" max-vertical-offset="591">
@@ -465,16 +456,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions/Expressions_Personal/js/Expressions_personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="765">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="765">
+          <caret line="26" column="132" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="132" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions/Expressions_Wacky/Expressions_wacky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/Expressions/Expressions_Wacky/js/Expressions_wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41463414" vertical-offset="0" max-vertical-offset="615">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.4390244" vertical-offset="0" max-vertical-offset="360">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
           <folding />
         </state>
       </provider>

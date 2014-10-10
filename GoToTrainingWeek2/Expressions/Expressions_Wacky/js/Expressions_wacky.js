@@ -9,10 +9,11 @@ Expressions_Wacky
 //Calculate how many skittles were eaten
 
 //setup the given variables
-var yellowSkittle = 5;
-var redSkittle = 10;
-var greenSkittle = 15;
+var yellowSkittle = 35;
+var redSkittle = 162;
+var greenSkittle = 150;
 
+var  yellowEaten = prompt("Hello!" +" " + "Lets calculate how many skittles are left"
+    + "Please enter how many yellow skittles you have eaten");
 
-
-alert("Testing 1, 2, 3!");
+//alert("Testing 1, 2, 3!");
