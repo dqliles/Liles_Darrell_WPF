@@ -19,4 +19,8 @@ var  yellowEaten = prompt("Hello!" +" " + "Lets calculate how many skittles are 
 var redEaten = prompt("please enter how many red you have eaten");
 console.log(redEaten);
 var greenEaten = prompt("Now enter how many green you have eaten");
+
+var yellowLeft = (yellowSkittle - yellowEaten);
+var redLeft = (redSkittle - redEaten);
+var greenLeft = (greenSkittle - greenEaten);
 //alert("Testing 1, 2, 3!");
