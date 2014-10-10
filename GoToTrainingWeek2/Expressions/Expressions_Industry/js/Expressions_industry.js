@@ -37,4 +37,7 @@ console.log(noSnack);
 //setup equation using input from prompt and the given//
 var grapesLeftOver = (grapes - ateGrapes);
 
+//tested out equation in console
+console.log(grapesLeftOver);
+
 //alert("Testing 1, 2, 3!");
