@@ -30,5 +30,11 @@ console.log(ateGrapes);
 var atePears = prompt("Please enter the number of children who ate pears?");
 console.log(atePears);
 
+//setup prompt for more info from user//
+var noSnack = prompt("Please enter the number of children who did not receive a snack");
+console.log(noSnack);
+
+//setup equation using input from prompt and the given//
+var grapesLeftOver = (grapes - ateGrapes);
 
 //alert("Testing 1, 2, 3!");
