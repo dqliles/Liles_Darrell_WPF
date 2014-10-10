@@ -20,7 +20,9 @@ var pears = 10;
 console.log(grapes);
 
 //Prompt to explain to user why we need some input from them
-Prompt("hello" + "Lets calculate how many grapes and pears were left over from snack time"
+var ateOranges = prompt("Hello!" +" " +  "Lets calculate how many grapes and pears were left over from snack time." + " "
++ "Please enter the number of children who ate oranges.");
+console.log(ateOranges);
 
 
 
