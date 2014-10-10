@@ -10,12 +10,12 @@ Expressions_industry
  //calculate how many grapes and pears were leftover during snack time with the attendance of twenty children .
 
 //created my given using an array//
-var fruitBasket = ["grapes" + "pears"];
+var fruitBasket = ["grapes" + "pears" + "noSnack"];
 
 //created variable to store value of each array//
 var grapes = 20;
-var pears = 10;
-
+var pears = 20;
+var noSnack = 0;
 //tested out variable in the console//
 console.log(grapes);
 
@@ -39,5 +39,12 @@ var grapesLeftOver = (grapes - ateGrapes);
 
 //tested out equation in console
 console.log(grapesLeftOver);
+
+//created equation for pears leftover
+var pearsLeftOver = (pears - atePears);
+console.log(pearsLeftOver);
+
+
+alert ("Ok there was "+grapesLeftOver+" grapes leftover and "+pearsLeftOver+" pears left over.");
 
 //alert("Testing 1, 2, 3!");
