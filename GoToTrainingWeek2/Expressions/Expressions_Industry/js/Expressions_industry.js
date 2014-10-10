@@ -16,14 +16,19 @@ var fruitBasket = ["grapes" + "pears"];
 var grapes = 20;
 var pears = 10;
 
-//tested out variable in the console
+//tested out variable in the console//
 console.log(grapes);
 
-//Prompt to explain to user why we need some input from them
-var ateOranges = prompt("Hello!" +" " +  "Lets calculate how many grapes and pears were left over from snack time." + " "
-+ "Please enter the number of children who ate oranges.");
-console.log(ateOranges);
+// Set up prompt to explain to user why we need some input from them//
+var ateGrapes = prompt("Hello!" +" " +  "Lets calculate how many grapes and pears were left over from snack time with " +
+"twenty children in attendance." + " "  + "Please enter the number of children who ate grapes.");
 
+//tested variable in console//
+console.log(ateGrapes);
+
+//prompt user for more info
+var atePears = prompt("Please enter the number of children who ate pears?");
+console.log(atePears);
 
 
 //alert("Testing 1, 2, 3!");
