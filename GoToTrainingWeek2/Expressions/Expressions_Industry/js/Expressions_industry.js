@@ -46,5 +46,5 @@ console.log(pearsLeftOver);
 
 
 alert ("Ok there was "+grapesLeftOver+" grapes leftover and "+pearsLeftOver+" pears left over.");
-
+console.log("Ok there was "+grapesLeftOver+" grapes leftover and "+pearsLeftOver+" pears left over.");
 //alert("Testing 1, 2, 3!");
