@@ -12,6 +12,7 @@ WPF Section 02
 
 //setup the given variables
 var firstAndLastName = "Darrell"+" Liles";
+//tested variable setup in console
 console.log(firstAndLastName);
 var email = "dqliles@fullsail.edu";
 console.log(email);
