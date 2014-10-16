@@ -17,6 +17,11 @@ console.log(firstAndLastName);
 var email = "dqliles@fullsail.edu";
 console.log(email);
 
+//setup prompt to collect input from user
+nameInputByUser =prompt("Hello!"+" To create a new password please enter your first and last name.");
+console.log(nameInputByUser);
+
+
 
 
 
