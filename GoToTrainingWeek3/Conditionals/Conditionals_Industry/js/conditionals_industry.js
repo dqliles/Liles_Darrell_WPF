@@ -38,7 +38,8 @@ else {(ageInput>minimumAgeToJoin)  //Is the age input greater than 18
 }
  //set up conditional for senior citizens' discount
 if (ageInput>=discountAge){
-        var discount = alert("Also because you are at least 50; You are eligible for the senior citizen 20% discount");
+        // You are eligible for senior discount
+    var discount = alert("Also because you are at least 50; You are eligible for the senior citizen 20% discount");
             console.log(discount)// tested in console
 }
 
