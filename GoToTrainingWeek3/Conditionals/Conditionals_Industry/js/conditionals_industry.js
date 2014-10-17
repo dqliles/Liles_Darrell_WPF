@@ -17,8 +17,18 @@ var minimumAgeToJoin = 18;
 var discountAge =50;
  console.log(discountAge);
 
-//Setup Prompt to obtain age from user
+//Setup prompt to obtain age from user
 var ageInput = prompt("Thank you for your interest in our facility!" +" Before we continue registration we must verify that you are at least 18."+" Please enter your age.");
-    console.log(ageInput);
+    console.log(ageInput);  //Tested prompt input in console
+
+ //set up the condition for the input of age
+ if(ageInput<minimumAgeToJoin){
+    //you are not eligible
+     var notEligible = prompt(" Im sorry!"+" You are not eligible.");
+        console.log(notEligible) //Tested out in console
+ }
+ else if(ageInput>minimumAgeToJoin){
+
+ }
 
 //alert("Testing 1, 2, 3!");
