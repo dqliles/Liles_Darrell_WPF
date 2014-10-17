@@ -12,13 +12,14 @@ Conditionals_Wacky
 //setup givens for photo prices
 
  var TwentyPhotosOrMore = 20;
-    console.log(TwentyPhotosOrMore);
+    console.log(TwentyPhotosOrMore);// tested in console
  var FiftyPhotosOrMore = 15;
     console.log(FiftyPhotosOrMore);
  var oneHundredPhotosOrMore = 8;
   console.log(oneHundredPhotosOrMore);
 
- var ticketsInput = prompt("Welcome!"+ " Please enter the number of photos you will be bringing in.");
+//setup prompt to get input from user
+ var photoInput = prompt("Welcome!"+ " Please enter the number of photos you will be bringing in.");
 
 
 
