@@ -27,8 +27,9 @@ var ageInput = prompt("Thank you for your interest in our facility!" +" Before w
      var notEligible = prompt(" Im sorry!"+" You are not eligible.");
         console.log(notEligible) //Tested out in console
  }
- else if(ageInput>minimumAgeToJoin){
-
+ else if(ageInput>minimumAgeToJoin){  //Is the age input greater than 18
+    var areEligible = prompt("Congratulations!"+" You are eligible for membership!")// You are eligible
+        console.log(areEligible) // Tested out prompt in console
  }
 
 //alert("Testing 1, 2, 3!");
