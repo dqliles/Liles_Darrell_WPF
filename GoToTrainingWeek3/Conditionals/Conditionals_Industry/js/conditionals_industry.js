@@ -12,10 +12,10 @@ Conditionals_Industry
 
 
 //Set up given variables
-var minimumAgeToJoin = 18;
+var minimumAgeToJoin = 18; // minimum age to join gym
  console.log(minimumAgeToJoin);
-var discountAge =50;
- console.log(discountAge);
+var discountAge =50;// age to be eligible for senior discount
+ console.log(discountAge);// tested in console
 
 //Setup prompt to obtain age from user
 var ageInput = prompt("Thank you for your interest in our facility!" +" Before we continue registration we must verify that you are at least 18."+" Please enter your age.");
