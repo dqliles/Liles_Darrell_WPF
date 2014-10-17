@@ -35,7 +35,7 @@ console.log(nameInputByUser);
  }
  //Setup up condition for info collected from prompt
 if (emailInputByUser === email){
-    PasswordResetSuccess = prompt("Great!"+" A link was sent to your email address to reset your password.");
+    PasswordResetSuccess = alert("Great!"+" A link was sent to your email address to reset your password.");
 
 }else{wrongEmailEntry = prompt ("The email you have entered does not match our records."+" Please re-enter your email.");
     console.log(wrongEmailEntry);
