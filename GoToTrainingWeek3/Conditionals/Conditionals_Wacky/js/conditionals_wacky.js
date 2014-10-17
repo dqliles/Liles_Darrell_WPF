@@ -20,6 +20,11 @@ Conditionals_Wacky
 
 //setup prompt to get input from user
  var photoInput = prompt("Welcome!"+ " Please enter the number of photos you will be bringing in.");
+    console.log(photoInput); //tested prompt in console
+
+ if(photoInput ===""){ //created validation prompt for blank entry
+     entryBlank = prompt("Oops!"+" You made a blank entry."+" Enter your amount of photos.");
+ }
 
 
 
