@@ -27,7 +27,7 @@ Conditionals_Wacky
         console.log(entryBlank);   // Tested out in console
  }
 
-else if(photoInput >= twentyPhotosOrMore){ //true?
+else if(photoInput = twentyPhotosOrMore){ //true?
     var twentyDollars = prompt("That will be $20"+" The more photos you bring the cheaper the price!"); //prompt for the price  of 20 photos
         console.log(twentyDollars);  //tested out in console
  }
