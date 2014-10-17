@@ -11,22 +11,26 @@ Conditionals_Wacky
 
 //setup givens for photo prices
 
- var TwentyPhotosOrMore = 20;
-    console.log(TwentyPhotosOrMore);// tested in console
- var FiftyPhotosOrMore = 15;
-    console.log(FiftyPhotosOrMore);
+ var twentyPhotosOrMore = 20;
+    console.log(twentyPhotosOrMore);// tested in console
+ var fiftyPhotosOrMore = 15;
+    console.log(fiftyPhotosOrMore);
  var oneHundredPhotosOrMore = 8;
   console.log(oneHundredPhotosOrMore);
 
 //setup prompt to get input from user
- var photoInput = prompt("Welcome!"+ " Please enter the number of photos you will be bringing in.");
+ var photoInput = prompt("Welcome!"+ " Please enter the number of photos you will be bringing in."+" You must have at least twenty!");
     console.log(photoInput); //tested prompt in console
 
  if(photoInput ===""){ //created validation prompt for blank entry
      entryBlank = prompt("Oops!"+" You made a blank entry."+" Enter your amount of photos.");
  }
+else if(photoInput >= twentyPhotosOrMore){
+    var twentyDollars = prompt("That will be $20"+" The more photos you bring the cheaper the price!");
+ }
+else if(photoInput){
 
-
+ }
 
 
 
