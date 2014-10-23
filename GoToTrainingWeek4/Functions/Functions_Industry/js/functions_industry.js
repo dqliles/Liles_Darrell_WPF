@@ -13,12 +13,13 @@ WPF Section 02
  var strawberryCake = prompt("Hello!" + " Please enter the number of strawberry cakes you will need.");
     console.log(strawberryCake);   //checked out prompt in console
 
-        while(isNan(strawberryCake) || strawberryCake===""){ //setup validation with a while loop
+        while(isNaN(strawberryCake) || strawberryCake===""){ //setup validation with a while loop
 
             strawberryCake = prompt("Please enter the number of strawberry cakes you will need");
 
         }
-
+//setup second variable and prompt for chocolate cake
+ var chocolateCake = prompt("Hello!" + " Please enter the number of chocolate cakes you will need.")
 
 
 
