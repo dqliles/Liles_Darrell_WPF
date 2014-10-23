@@ -19,7 +19,11 @@ WPF Section 02
 
         }
 //setup second variable and prompt for chocolate cake
- var chocolateCake = prompt("Hello!" + " Please enter the number of chocolate cakes you will need.")
+ var chocolateCake = prompt("Hello!" + " Please enter the number of chocolate cakes you will need.");
+
+        while(isNaN(strawberryCake) || strawberryCake===""){ //setup validation with a while loop
+
+ }
 
 
 
