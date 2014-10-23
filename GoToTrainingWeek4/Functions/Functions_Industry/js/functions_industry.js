@@ -11,9 +11,9 @@ WPF Section 02
 
 //Setup variable to collect info from prompt
  var strawberryCake = prompt("Hello!" + " Please enter the number of strawberry cakes you will need.");
-    console.log(strawberryCake);
+    console.log(strawberryCake);   //checked out prompt in console
 
-        while(isNan(strawberryCake) || strawberryCake===""){
+        while(isNan(strawberryCake) || strawberryCake===""){ //setup validation with a while loop
 
             strawberryCake = prompt("Please enter the number of strawberry cakes you will need");
 
