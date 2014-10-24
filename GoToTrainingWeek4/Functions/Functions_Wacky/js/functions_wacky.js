@@ -15,11 +15,11 @@ Functions_Wacky
  var twentyPeopleOrMore = 20;
  console.log(twentyPeopleOrMore);
  var thirtyPeopleOrMore = 30;
- console.log(thirtyPeopleOrMore);
+ console.log(thirtyPeopleOrMore);//tested in console
 
 
 
 
- 
+
 
 //alert("Testing 1, 2, 3!");
