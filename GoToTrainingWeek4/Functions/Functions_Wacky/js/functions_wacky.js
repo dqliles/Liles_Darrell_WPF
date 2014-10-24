@@ -23,6 +23,8 @@ Functions_Wacky
  var peopleInput = prompt("Welcome!"+ " Please enter the number of people you have brought with you."+" You must have at least 2!");
  console.log(peopleInput); //tested prompt in console
 
-
-
+ while(isNaN(peopleInput) || peopleInput==="") { //created validation prompt for blank entry
+     entryBlank = prompt("Oops!" + " You made a blank entry." + " Enter your amount of guests.");
+     console.log(entryBlank);   // Tested out in console
+ }
 //alert("Testing 1, 2, 3!");
