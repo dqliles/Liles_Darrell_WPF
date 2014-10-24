@@ -31,9 +31,7 @@ Functions_Industry
 
 
 //Setup ternary condition
-(jordanPurchase > jordanSneakersLeft) ? prompt("Im sorry but we do not have that many pair left!"):console.log("Sorry please lower your amount");
-
-
+var soldOut =(jordanPurchase > jordanSneakersLeft) ? prompt("Im sorry but we do not have that many pair left!"):prompt(jordanPurchase);
 
 
 
