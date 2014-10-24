@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6255578-0c7f-4ca4-848b-7dd1a34f4217" name="Default" comment="" />
+    <list default="true" id="d6255578-0c7f-4ca4-848b-7dd1a34f4217" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTrainingWeek4/Functions/Functions_Industry/js/functions_industry.js" afterPath="$PROJECT_DIR$/GoToTrainingWeek4/Functions/Functions_Industry/js/functions_industry.js" />
+    </list>
     <ignored path="Liles_Darrell_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +28,8 @@
       <file leaf-file-name="functions_industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoToTrainingWeek4/Functions/Functions_Industry/js/functions_industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7622505" vertical-offset="15" max-vertical-offset="600">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4355717" vertical-offset="15" max-vertical-offset="645">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -36,8 +38,8 @@
       <file leaf-file-name="conditionals_industry.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/Conditionals/Conditionals_Industry/js/conditionals_industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-              <caret line="17" column="46" selection-start-line="14" selection-start-column="0" selection-end-line="17" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="780">
+              <caret line="22" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -575,16 +577,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/Conditionals/Conditionals_Industry/js/conditionals_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-          <caret line="17" column="46" selection-start-line="14" selection-start-column="0" selection-end-line="17" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="780">
+          <caret line="22" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek4/Functions/Functions_Industry/js/functions_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7622505" vertical-offset="15" max-vertical-offset="600">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4355717" vertical-offset="15" max-vertical-offset="645">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="40" />
           <folding />
         </state>
       </provider>

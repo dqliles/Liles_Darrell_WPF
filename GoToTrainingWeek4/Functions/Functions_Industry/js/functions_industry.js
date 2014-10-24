@@ -15,6 +15,9 @@ Functions_Industry
  var lebronSneakersLeft =50;// amount of Lebron sneakers left
  console.log(lebronSneakersLeft);// tested in console
 
+ //Setup prompt to obtain info from user
+ var jordanPurchase = prompt("Thank you for your interest in our sneakers!"+" Please enter the number of Jordan sneakers you would like to purchase!");
+ console.log(jordanPurchase);  //Tested prompt input in console
 
 
 
