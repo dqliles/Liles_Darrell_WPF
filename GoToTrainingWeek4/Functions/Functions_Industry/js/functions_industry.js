@@ -9,6 +9,9 @@ Functions_Industry
 
 // The new Jordan and Lebron sneakers just came out. People have been camped out all night to purchase them, and they are almost sold out.
 //You have to now purchase them online.
+
+
+
  var jordanSneakersLeft = 4; //  the amount of Jordan sneakers left for inventory
  console.log(jordanSneakersLeft); // tested variable for jordan sneakers in console
  var lebronSneakersLeft =6;// amount of Lebron sneakers left
@@ -27,7 +30,8 @@ Functions_Industry
 }
 
 
-
+//Setup ternary condition
+(jordanPurchase > jordanSneakersLeft) ? prompt("Im sorry but we do not have that many pair left!"):console.log("Sorry please lower your amount");
 
 
 
