@@ -22,7 +22,12 @@ Functions_Industry
 
  while(isNaN(jordanPurchase) || jordanPurchase==="") { //setup validation with a while loop
 
- }
+     var  jordanPurchase = prompt("Please enter the number of Jordan sneakers you will need.");
+     console.log(jordanPurchase); //tested jordanPurchase prompt in the console.
+}
+
+
+
 
 
 
