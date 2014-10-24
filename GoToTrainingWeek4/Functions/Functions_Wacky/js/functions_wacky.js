@@ -6,9 +6,9 @@ Functions_Wacky
 
  */
 
-// we are calculating for a all you can eat charity event the more people you bring the cheaper the cost
+// we are calculating for a all you can eat charity event, the more people you bring the cheaper the cost
 
- //setup givens for photo prices
+ //setup givens
 
  var tenPeopleOrMore = 10;
  console.log(tenPeopleOrMore);// tested in console
@@ -19,6 +19,9 @@ Functions_Wacky
 
 
 
+ //setup prompt to get input from user
+ var peopleInput = prompt("Welcome!"+ " Please enter the number of people you have brought with you."+" You must have at least 2!");
+ console.log(peopleInput); //tested prompt in console
 
 
 
