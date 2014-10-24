@@ -7,7 +7,7 @@ Functions_Industry
 
 
 
-// The new Jordan and Lebron sneakers just came out. People have been camped out all night to purchase them, and they are almost sold out.
+// The new Jordan sneakers just came out. People have been camped out all night to purchase them, and they are almost sold out.
 //You have to now purchase them online.
 
 
@@ -31,15 +31,22 @@ Functions_Industry
 
 
 //Setup ternary condition
-var soldOut =(jordanPurchase > jordanSneakersLeft) ? prompt("Im sorry but we do not have that many pair left!"):prompt(jordanPurchase);
+var soldOut =(jordanPurchase > jordanSneakersLeft) ? prompt("Im sorry but we do not have that many pair left!"):prompt("Great!");
 
 
 
+var  lebronPurchase = prompt("Please enter the number of Lebron sneakers you will need.");
+ console.log(lebronPurchase); //tested jordanPurchase prompt in the console.
 
 
+ while(isNaN(lebronPurchase) || lebronPurchase==="") { //setup validation with a while loop
 
+     var  lebronPurchase = prompt("Please enter the number of Lebron sneakers you will need.");
+     console.log(lebronPurchase); //tested jordanPurchase prompt in the console.
 
+ }
 
+alert("Thank you!"+" I hope you enjoy your purchase!");
 
 
 
