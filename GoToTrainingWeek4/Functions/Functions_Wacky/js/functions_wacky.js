@@ -28,15 +28,15 @@ Functions_Wacky
      console.log(entryBlank);   // Tested out in console
  }
 
-  if(photoInput = tenPeopleOrMore){ //true?
+  if(peopleInput = tenPeopleOrMore){ //true?
      var tenDollars = prompt("That will be $10"+!"); //prompt for the price
      console.log(tenDollars);  //tested out in console
  }
- else {(photoInput >= twentyPeopleOrMore)
+ else {(peopleInput >= twentyPeopleOrMore)
      var twentyDollars = prompt("That will be $20"+" The more photos you bring the cheaper the price!")
      console.log(twentyDollars); //tested in console
  }
- if (photoInput >= thirtyPeopleOrMore){ //true?
+ if (peopleInput >= thirtyPeopleOrMore){ //true?
      var thirtyDollars = prompt("That will be $30");
 
  }
